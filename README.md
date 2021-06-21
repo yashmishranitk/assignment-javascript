@@ -27,9 +27,9 @@
                     <!-- nav items -->  
                 </ul>  
             </nav>  
-            <div id="blog" class="hidden"><-- blog dropdown -->  
+            <div id="blog" class="hidden">  
             </div>  
-            <!-- blog -->  
+            <!-- blog website javascript assignment....>
             <article>  
                 <header>  
                     <h1>  
