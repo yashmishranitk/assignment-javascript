@@ -21,7 +21,7 @@
         <div id="container">  
             <header role="banner">  
                 <h1>  
-                    <a href="/">joel sutherland</a>  
+                    <a href="/">Yash Mishra assignment</a>  
                 </h1>  
             </header>  
             <nav>  
