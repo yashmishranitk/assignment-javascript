@@ -3,11 +3,9 @@
  
 #As the use of HTML5 and CSS3 continuous to sprung up, folks around the world are looking at them impressively to design their web pages with pixel-perfect standards. HTML5 is #much more consideration for its semantic and cross-browser compatibility. It uses relevant tags for common elements such as navigation and footer for an added impact. On the #other hand, CSS3 is a sophisticated language that comes packed with many features such as jQuery slider, responsive layout and more to make your design stand out.
  
-#This tutorial talks about creating a minimal blogging site using HTML5, CSS3, and jQuery. Following the tutorial, you'll be able to create a website that looks simple, #implements modern tools and development techniques and makes use of HiFi CMS.
  
-#So, without much ado, let's start the process.
+
  
-#The Markup
  
 #Since our goal is just to create a minimal blogging website, look at the markup of our blog below. There isn't any significant difference in the listing page and there are no #comments included in the page. The articles are stacked. You can also see how we have kept the non-semantic stuff at bay. Only a "div" container is used. The top-most bar and #other embellishments will be loaded via JavaScript.
 <!DOCTYPE html>  
@@ -53,14 +51,14 @@
         <!-- scripts -->  
     </body>  
 </html>  
-Preparing the CSS Layout
+#Preparing the CSS Layout
  
-Here, again the idea of minimalism will remain the same. So, to do this we need to sure not to use unnecessary images and also avoid repeating the code.
+#Here, again the idea of minimalism will remain the same. So, to do this we need to sure not to use unnecessary images and also avoid repeating the code.
  
-So, let's begin preparing our layout.
+#So, let's begin preparing our layout.
  
-Site Background
-html   
+#Site Background
+#html   
 {   
     background: #d0cec9;   
     filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#dedcd9', endColorstr='#f7f7f6');   
